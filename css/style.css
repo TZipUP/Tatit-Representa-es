@@ -851,7 +851,7 @@ span.eme {
 
 .tesimonials {
 	text-align: center;
-    background: url(../images/3.jpg) no-repeat 0px 0px;
+    background: url(../images/fundo.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -2035,7 +2035,8 @@ figure.effect-apollo:hover p {
 /*-- footer --*/
 
 .footer_top_agile_w3ls {
-	background: #73B643;
+	/* background: #73B643; */
+	background: #357136;
 	padding: 4em 0;
 }
 
@@ -2044,7 +2045,8 @@ figure.effect-apollo:hover p {
 }
 
 .footer_wthree_agile{
-	background: #0f0f10;
+	/* background: #0f0f10; */
+	background: #2e612f;
 	padding: 1em 0;
 }
 
@@ -2194,7 +2196,8 @@ ul.tag2:last-child {
 .footer_grid h3,
 .footer_grid_left h3 {
 	font-size: 1.4em;
-	color: #1D323D;
+	/* color: #1D323D; */
+	color: #f2c14e;
 	position: relative;
 	margin-bottom: 1.5em;
 	font-weight: 600;
@@ -2266,7 +2269,7 @@ ul.tag2:last-child {
 }
 
 .address li a:hover {
-	color: #fff;
+	color: #f2c14e;
 	text-decoration: none;
 }
 
