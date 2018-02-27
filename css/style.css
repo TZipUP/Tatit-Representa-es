@@ -2035,7 +2035,7 @@ figure.effect-apollo:hover p {
 /*-- footer --*/
 
 .footer_top_agile_w3ls {
-	background: #141415;
+	background: #73B643;
 	padding: 4em 0;
 }
 
@@ -2194,7 +2194,7 @@ ul.tag2:last-child {
 .footer_grid h3,
 .footer_grid_left h3 {
 	font-size: 1.4em;
-	color: #F2C14E;
+	color: #1D323D;
 	position: relative;
 	margin-bottom: 1.5em;
 	font-weight: 600;
@@ -2206,7 +2206,7 @@ ul.tag2:last-child {
 }
 
 .footer_grid p {
-	color: #5f5f63;
+	color: #ffffff;
 	line-height: 2em;
 	margin-bottom: 2em;
 }
@@ -2240,7 +2240,7 @@ ul.tag2:last-child {
 }
 
 .address li {
-	color: #5f5f63;
+	color: #ffffff;
 }
 
 .address li i {
@@ -2261,7 +2261,7 @@ ul.tag2:last-child {
 }
 
 .address li a {
-	color: #5f5f63;
+	color: #ffffff;
 	text-decoration: none;
 }
 
